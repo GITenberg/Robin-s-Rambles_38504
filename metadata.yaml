@@ -1,0 +1,38 @@
+_repo: Robin-s-Rambles_38504
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Muckley, Angelo Fairfax
+    alias: Muckley, A. Fairfax (Angelo Fairfax)
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '39502'
+    url: http://www.gutenberg.org/2009/agents/39502
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Gillington, May Clarissa
+    - Gillington, M. C. (May Clarissa)
+    - Clare, Maurice
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Robins -- Juvenile fiction'
+title: Robin's Rambles
+url: http://www.gutenberg.org/ebooks/38504
